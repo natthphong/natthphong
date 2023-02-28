@@ -130,6 +130,14 @@
       height="40"
     />
   </a>
+  <a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
+      alt="gin"
+      width="40"
+      height="40"
+    />
+  </a>
 </div>
 
 <div class="mobile">
