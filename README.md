@@ -214,6 +214,15 @@
       height="40"
     />
   </a>
+
+  <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.aviator.co/blog/wp-content/uploads/2023/01/sonarqube.png"
+      alt="sonarqube"
+      width="70"
+      height="40"
+    />
+  </a>
   
 </div>
 <div class="Other">
