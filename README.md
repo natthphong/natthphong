@@ -137,7 +137,7 @@
     <img
       src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
       alt="gin"
-      width="80"
+      width="60"
       height="40"
     />
   </a>
