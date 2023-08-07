@@ -224,13 +224,13 @@
     />
   </a>
 
-    <a href="https://www.sonatype.com/" target="_blank" rel="noreferrer">
-    <img
+<a href="https://www.sonatype.com/" target="_blank" rel="noreferrer">
+    	<img
       src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_ebaa75acf764ee0933b7e0b4c65a06b5/sonatype-nexus-repository.jpg"
       alt="nexus"
       width="50"
       height="50"
-    />
+    	/>
   </a>
   
 </div>
