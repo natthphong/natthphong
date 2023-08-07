@@ -196,6 +196,16 @@
       height="40"
     />
   </a>
+
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.jenkins.io/images/logo-title-opengraph.png"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+  </a>
+  
 </div>
 <div class="Other">
   <h3 align="left">Other</h3>
