@@ -137,7 +137,16 @@
     <img
       src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
       alt="gin"
-      width="40"
+      width="80"
+      height="40"
+    />
+  </a>
+
+   <a href="https://github.com/gofiber/fiber" target="_blank" rel="noreferrer">
+    <img
+      src="https://repository-images.githubusercontent.com/234231371/00fd8700-5430-11ea-820b-15fd85b2472c"
+      alt="fiber v2"
+      width="80"
       height="40"
     />
   </a>
@@ -201,7 +210,7 @@
     <img
       src="https://www.jenkins.io/images/logo-title-opengraph.png"
       alt="jenkins"
-      width="40"
+      width="80"
       height="40"
     />
   </a>
