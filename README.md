@@ -12,9 +12,9 @@
 <p align="left">
   <a
     style="text-decoration: none"
-    href="mailto:jaroenpronprasi_n@silpakorn.edu"
+    href="mailto:jaroenpronprasit@gmail.com"
     target="blank"
-    >jaroenpronprasi_n@silpakorn.edu</a
+    >jaroenpronprasit@gmail.com</a
   >
 </p>
 
