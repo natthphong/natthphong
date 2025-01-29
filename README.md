@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natthaphong Jaroenpronprasit</h1>
-<h3 align="center">Java Developer at Prior solution co., ltd.</h3>
+<h3 align="center">Backend Developer at Prior solution co., ltd.</h3>
 
 <p align="left">
   <img
